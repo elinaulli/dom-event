@@ -17,7 +17,6 @@
     "preshow:dist": "npm run build",
     "show:dist": "http-server dist"
   },
-  "homepage": "https://elinaulli.github.io/dom-event/",
   "dependencies": {
     "@babel/cli": "^7.28.3",
     "@babel/core": "^7.28.4",
