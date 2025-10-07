@@ -997,6 +997,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.36.0.tgz#b1a3893dd6ce2defed5fd49de805ba40368e8fef"
   integrity sha512-uhCbYtYynH30iZErszX78U+nR3pJU3RHGQ57NXy5QupD4SBVwDeU8TNBy+MjMngc1UyIW9noKqsRqfjQTBU2dw==
 
+"@eslint/js@^9.37.0":
+  version "9.37.0"
+  resolved "https://registry.yarnpkg.com/@eslint/js/-/js-9.37.0.tgz#0cfd5aa763fe5d1ee60bedf84cd14f54bcf9e21b"
+  integrity sha512-jaS+NJ+hximswBG6pjNX0uEJZkrT0zwpVi3BA3vX22aFGjJjmgSTSmPpZCRKmoBL5VY/M6p0xsSJx7rk7sy5gg==
+
 "@eslint/object-schema@^2.1.6":
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/@eslint/object-schema/-/object-schema-2.1.6.tgz#58369ab5b5b3ca117880c0f6c0b0f32f6950f24f"
@@ -3526,6 +3531,11 @@ globals@^14.0.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-14.0.0.tgz#898d7413c29babcf6bafe56fcadded858ada724e"
   integrity sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==
 
+globals@^16.4.0:
+  version "16.4.0"
+  resolved "https://registry.yarnpkg.com/globals/-/globals-16.4.0.tgz#574bc7e72993d40cf27cf6c241f324ee77808e51"
+  integrity sha512-ob/2LcVVaVGCYN+r14cnwnoDPUufjiYgSqRhiFD0Q1iI4Odora5RE8Iv1D24hAz5oMophRGkGz+yuvQmmUMnMw==
+
 gopd@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/gopd/-/gopd-1.2.0.tgz#89f56b8217bdbc8802bd299df6d7f1081d7e51a1"
@@ -5179,6 +5189,11 @@ prettier-linter-helpers@^1.0.0:
   integrity sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==
   dependencies:
     fast-diff "^1.1.2"
+
+prettier@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.2.tgz#ccda02a1003ebbb2bfda6f83a074978f608b9393"
+  integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==
 
 pretty-error@^4.0.0:
   version "4.0.0"

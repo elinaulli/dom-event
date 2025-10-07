@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  cursor: url(/dom-event/e176e41f602a4bda120c.png) 2 2, auto;
 }
 
 .game-container {
@@ -57,7 +58,6 @@ body {
 .img-goblin {
   width: 100%;
   height: 100%;
-  cursor: url(e176e41f602a4bda120c.png) 2 2, auto;
 }
 
 .gamestate {

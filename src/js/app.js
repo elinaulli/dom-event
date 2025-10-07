@@ -1,5 +1,5 @@
-import Gui from './Gui';
-import Logic from './Logic';
+import Gui from "./Gui";
+import Logic from "./Logic";
 
 const gui = new Gui();
 gui.init();

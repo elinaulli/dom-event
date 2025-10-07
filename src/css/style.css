@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  cursor: url('../img/hammer.png') 2 2, auto;
 }
 
 .game-container {
@@ -57,11 +58,10 @@ body {
 .img-goblin {
   width: 100%;
   height: 100%;
-  cursor: url('../img/hammer.png') 2 2, auto;
 }
 
 .gamestate {
-  display: flexbox;
+  display: block;
   order: 2px solid #ddd;
   padding: 10px;
   border-radius: 4px;
